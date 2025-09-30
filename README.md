@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-- 🔭 I’m currently working on DRTC
+- 🔭 I’m currently working on UNCP
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on projects
 - 🤔 I’m looking for help with js
