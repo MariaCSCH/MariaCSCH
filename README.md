@@ -8,4 +8,4 @@
 - 💬 Ask me about programing language
 - 📫 How to reach me: mcsch
 - 😄 Pronouns: She
-- ⚡ Fun fact: xd
+- ⚡ Fun fact: 123
